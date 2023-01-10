@@ -2,7 +2,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace SimpleECS.Example.Editor
+namespace SimpleECS.Editor
 {
     public class UltimateECSDebugWindow : EditorWindow
     {
